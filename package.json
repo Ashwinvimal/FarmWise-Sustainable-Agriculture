@@ -1,5 +1,12 @@
 {
   "name": "vite_react_shadcn_ts",
+  "description": "Smart Agriculture Advisory System to provide supportive crop guidance",
+  "author": "Ashwin Vimal <ashwin@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ashwinvimal/FarmWise-Sustainable-Agriculture.git"
+  },
   "private": true,
   "homepage": "https://Ashwinvimal.github.io/FarmWise-Sustainable-Agriculture",
   "version": "0.0.0",
